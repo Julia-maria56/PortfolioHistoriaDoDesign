@@ -1,0 +1,41 @@
+.header{
+    background-image: url('/src/images/tarefa_08/comercio_fundo.png');
+    background-size: cover;
+}
+
+main{
+    height:3100px;
+}
+
+.imagem_final{
+    width:100%;
+}
+
+.imagem_final p{
+    margin-bottom:40px;
+    font-size: 30px;
+}
+
+.panfletoeimaecaneca{
+    width:100%;
+    display:flex;
+    gap:60px;
+    align-items: space-between;
+    justify-content: space-between;
+}
+
+.ima, .panfleto, .caneca{
+    width:50%;
+}
+
+.ima img, .panfleto img, .caneca img{
+    width:100%;
+}
+
+.panfleto{
+     width:50%;
+}
+
+.panfleto img{
+    width:70%;
+}
